@@ -146,3 +146,6 @@ Common negatives: *“não recebi”, “veio errado”, “faltando”*
 | Project Management | GitHub, Jupyter Notebook |
 
 ---
+## Model and Dataset
+
+Access Dataset and Model here: https://drive.google.com/drive/folders/1ujXQRfHrQEJQd03RCn6wDSkgamlikWOH?usp=sharing
