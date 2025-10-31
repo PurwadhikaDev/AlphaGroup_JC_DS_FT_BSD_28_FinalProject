@@ -134,6 +134,13 @@ Common negatives: *“não recebi”, “veio errado”, “faltando”*
 
 ---
 
+## 🔗 Relevant Links
+
+- Access Dataset and Model here: https://drive.google.com/drive/folders/1ujXQRfHrQEJQd03RCn6wDSkgamlikWOH?usp=sharing
+- Access Tableau here: https://public.tableau.com/app/profile/uriel.siboro/viz/BrazilianE-CommerceFINAL/Dashboard2?publish=yes
+
+---
+
 ## 🛠️ Tech Stack  
 
 | Area | Tools |
@@ -146,6 +153,4 @@ Common negatives: *“não recebi”, “veio errado”, “faltando”*
 | Project Management | GitHub, Jupyter Notebook |
 
 ---
-## Model and Dataset
 
-Access Dataset and Model here: https://drive.google.com/drive/folders/1ujXQRfHrQEJQd03RCn6wDSkgamlikWOH?usp=sharing
